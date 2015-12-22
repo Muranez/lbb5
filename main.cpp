@@ -6,6 +6,7 @@
 // вычислений (они не являются проблемой в данном случае).
 #pragma GCC diagnostic ignored "-Wunused-value"
 
+
 #include <cassert>
 #include <sstream>
 #include <stdexcept>
